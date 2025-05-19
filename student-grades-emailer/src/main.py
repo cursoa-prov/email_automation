@@ -21,4 +21,4 @@ def main():
         emailer.send_email(contact['email'], subject, body)
 
 if __name__ == "__main__":
-    main()
+    main() 
